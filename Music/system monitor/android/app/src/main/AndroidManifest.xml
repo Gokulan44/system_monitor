@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Special access (user-granted in Settings > Apps > Usage access); the
+         App Lock watcher needs it to observe which app is in the foreground. -->
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SOCAgent"
+        android:usesCleartextTraffic="true">
+
+        <!-- Launcher / login entry point -->
+        <activity
+            android:name=".ui.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main dashboard (not exported — internal navigation only) -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false" />
+
+        <!-- PIN lock overlay (not exported, singleTop so it never stacks) -->
+        <activity
+            android:name=".ui.PinLockActivity"
+            android:exported="false"
+            android:launchMode="singleTop" />
+
+        <!-- App Lock unlock gate (PIN or pattern). Not exported; launched
+             internally by the watcher service and the dashboard. -->
+        <activity
+            android:name=".ui.AppLockGateActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:noHistory="true"
+            android:taskAffinity="" />
+
+        <!-- Choose Unlock Method screen. -->
+        <activity
+            android:name=".ui.applock.ChooseUnlockMethodActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SOCAgent" />
+
+        <!-- Foreground watcher that enforces per-app locks. -->
+        <service
+            android:name=".services.AppLockService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync" />
+
+        <!-- Fake crash dialog (shown when fake crash is enabled and unlock fails). -->
+        <activity
+            android:name=".ui.FakeCrashActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:noHistory="true"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.Alert" />
+
+        <!-- App Usage watcher (foreground service tracking app usage). -->
+        <service
+            android:name=".services.AppUsageService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync" />
+
+        <!-- Notification Count listener (captures all posted notifications for analytics). -->
+        <service
+            android:name=".services.NotificationCountService"
+            android:exported="true"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+
+        <!-- Accessibility Service for App Lock foreground app detection. -->
+        <service
+            android:name=".services.AppLockAccessibilityService"
+            android:exported="true"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+    </application>
+
+</manifest>

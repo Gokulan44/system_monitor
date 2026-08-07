@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_add_app_lock.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_add_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_unlock_history.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_unlock_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_daily_usage.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_daily_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_trusted_device.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_trusted_device.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_locked_apps.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_locked_apps.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_app_usage.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_app_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_cpu.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_cpu.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_app_lock_gate.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_app_lock_gate.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_backup_sync.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_backup_sync.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_dashboard.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_quick_scan.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_quick_scan.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_app_lock.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_app_lock.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security_settings.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_choose_unlock_method.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_choose_unlock_method.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_scan_center.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_scan_center.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_privacy_settings.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_privacy_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_usage_stats.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_usage_stats.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_device.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_device.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_activity_history.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_activity_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_app_usage_list.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_usage_list.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_threat.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_threat.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_pin.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_pin.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security_permissions.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_permissions.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_recent_activity.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_recent_activity.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_recent_activity.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_recent_activity.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_backup.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_backup.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security_threats.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_threats.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_placeholder.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_placeholder.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_memory.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_memory.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_app.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security_alerts.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_alerts.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_settings_section.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_settings_section.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/activity_fake_crash.xml",
+        "source": "com.soc.agent.app-main-50:/layout/activity_fake_crash.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_log.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_security_apps.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_apps.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/row_core.xml",
+        "source": "com.soc.agent.app-main-50:/layout/row_core.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_devices.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_devices.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_preferences.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_preferences.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_apk_scanner.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_apk_scanner.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_help_support.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_help_support.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_notification_settings.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_notification_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_daily_usage.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_daily_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/item_unlock_history.xml",
+        "source": "com.soc.agent.app-main-50:/layout/item_unlock_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_backup.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_backup.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-mergeDebugResources-47:/layout/fragment_app_usage.xml",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_usage.xml"
+    }
+]

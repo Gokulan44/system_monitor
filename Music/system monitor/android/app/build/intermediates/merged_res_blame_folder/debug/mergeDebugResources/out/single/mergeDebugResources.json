@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_device.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_device.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_login.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_password.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_quick_scan.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_quick_scan.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_recent_activity.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_recent_activity.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_lock.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_appusage.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_appusage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security_alerts.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_alerts.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_bell.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_bell.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_app_usage_list.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_usage_list.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_home.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_network.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_network.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_help.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_help.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/xml_accessibility_service_config.xml.flat",
+        "source": "com.soc.agent.app-main-50:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_scan.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_scan.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_filecenter.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_filecenter.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_backup.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_backup.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "com.soc.agent.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_privacy.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_privacy.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_device.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_device.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_activity_history.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_activity_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_help_support.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_help_support.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_shield.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_settings.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_fingerprint.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_recent_activity.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_recent_activity.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_reports.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_reports.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_trusted_device.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_trusted_device.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_app_lock.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_privacy_settings.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_privacy_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_bg_gradient.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_add_app_lock.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_add_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_apk_scanner.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_apk_scanner.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security_threats.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_threats.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_preferences.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_preferences.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_cloud.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_cloud.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_logout.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_logout.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_usage_stats.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_usage_stats.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_bg_icon_circle.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/bg_icon_circle.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_daily_usage.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_daily_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_security.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_security.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security_settings.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_app_usage.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_app_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_back.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_locked_apps.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_locked_apps.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_settings.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/xml_network_security_config.xml.flat",
+        "source": "com.soc.agent.app-main-50:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security_permissions.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_permissions.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_cpu.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_cpu.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_app.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_pattern.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_pattern.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_unlock_history.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_unlock_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_settings_section.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_settings_section.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_scan_center.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_scan_center.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_placeholder.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_placeholder.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_log.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_applock.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_applock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_app_lock.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_lock.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_threat.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_threat.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_person.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_person.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_row_core.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/row_core.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_notification_settings.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_notification_settings.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_info.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_info.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_devices.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_devices.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_history.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.soc.agent.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_backup.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_backup.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_app_lock_gate.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_app_lock_gate.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_bg_settings_item.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/bg_settings_item.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_item_unlock_history.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/item_unlock_history.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_pin.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_pin.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.soc.agent.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_security_apps.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_security_apps.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_dashboard.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_nav_notification.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_nav_notification.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/menu_bottom_nav.xml.flat",
+        "source": "com.soc.agent.app-main-50:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_app_usage.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_app_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_bg_indicator_active.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/bg_indicator_active.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_fake_crash.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_fake_crash.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_activity_choose_unlock_method.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/activity_choose_unlock_method.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_phone.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_phone.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_chevron.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_chevron.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_settings_shield.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_settings_shield.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_memory.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_memory.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_backup_sync.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_backup_sync.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/layout_fragment_daily_usage.xml.flat",
+        "source": "com.soc.agent.app-main-50:/layout/fragment_daily_usage.xml"
+    },
+    {
+        "merged": "com.soc.agent.app-debug-48:/drawable_ic_person.xml.flat",
+        "source": "com.soc.agent.app-main-50:/drawable/ic_person.xml"
+    }
+]

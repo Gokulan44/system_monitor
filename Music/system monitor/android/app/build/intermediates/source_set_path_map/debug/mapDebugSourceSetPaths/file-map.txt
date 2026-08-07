@@ -1,0 +1,51 @@
+com.soc.agent.app-drawerlayout-1.1.1-0 C:\Users\GOPAL\.gradle\caches\8.11\transforms\091c837c72d6dd6acc0ac0c61f9253fa\transformed\drawerlayout-1.1.1\res
+com.soc.agent.app-lifecycle-runtime-release-1 C:\Users\GOPAL\.gradle\caches\8.11\transforms\0d5c318b68e9624dce06bb0c23f6845e\transformed\lifecycle-runtime-release\res
+com.soc.agent.app-material-1.12.0-2 C:\Users\GOPAL\.gradle\caches\8.11\transforms\120e67dd76bb4393784faa490fdd0f8e\transformed\material-1.12.0\res
+com.soc.agent.app-emoji2-views-helper-1.3.0-3 C:\Users\GOPAL\.gradle\caches\8.11\transforms\16ea3299aeb3a0d4b25ec6718cbf4222\transformed\emoji2-views-helper-1.3.0\res
+com.soc.agent.app-annotation-experimental-1.4.0-4 C:\Users\GOPAL\.gradle\caches\8.11\transforms\19c26ef70dc17f8daae7eecc66a34b18\transformed\annotation-experimental-1.4.0\res
+com.soc.agent.app-transition-1.5.0-5 C:\Users\GOPAL\.gradle\caches\8.11\transforms\1ef1dfe50e6c321ed6bf5c037fb126ad\transformed\transition-1.5.0\res
+com.soc.agent.app-startup-runtime-1.1.1-6 C:\Users\GOPAL\.gradle\caches\8.11\transforms\1ffeca04c1878a2331d846d362f839e9\transformed\startup-runtime-1.1.1\res
+com.soc.agent.app-appcompat-1.7.0-7 C:\Users\GOPAL\.gradle\caches\8.11\transforms\3129e4e029503d3de4b794ffe07f59a1\transformed\appcompat-1.7.0\res
+com.soc.agent.app-sqlite-framework-2.4.0-8 C:\Users\GOPAL\.gradle\caches\8.11\transforms\34fb9c4802927901a4b9dbba51678f0f\transformed\sqlite-framework-2.4.0\res
+com.soc.agent.app-lifecycle-livedata-core-ktx-2.8.4-9 C:\Users\GOPAL\.gradle\caches\8.11\transforms\41378982ddd19e2239b9bdc64dedbb7b\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.soc.agent.app-core-ktx-1.13.1-10 C:\Users\GOPAL\.gradle\caches\8.11\transforms\4378d4b120581048c804c6c0b24783f1\transformed\core-ktx-1.13.1\res
+com.soc.agent.app-lifecycle-viewmodel-savedstate-2.8.4-11 C:\Users\GOPAL\.gradle\caches\8.11\transforms\45d9f7e307225242473af9a6e72a48bf\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.soc.agent.app-savedstate-ktx-1.2.1-12 C:\Users\GOPAL\.gradle\caches\8.11\transforms\4abfb05b0e10f3d29aa0f9526025cee1\transformed\savedstate-ktx-1.2.1\res
+com.soc.agent.app-emoji2-1.3.0-13 C:\Users\GOPAL\.gradle\caches\8.11\transforms\52ef9f864b5e2cbeaae91b333dc7bb64\transformed\emoji2-1.3.0\res
+com.soc.agent.app-appcompat-resources-1.7.0-14 C:\Users\GOPAL\.gradle\caches\8.11\transforms\6374f8d41bbe7cd2314c73f0522ee03b\transformed\appcompat-resources-1.7.0\res
+com.soc.agent.app-recyclerview-1.3.2-15 C:\Users\GOPAL\.gradle\caches\8.11\transforms\6813166ad6aa9284835b38127e03fa81\transformed\recyclerview-1.3.2\res
+com.soc.agent.app-lifecycle-livedata-core-2.8.4-16 C:\Users\GOPAL\.gradle\caches\8.11\transforms\6ebe5f40e6fd39273823e81f2d241695\transformed\lifecycle-livedata-core-2.8.4\res
+com.soc.agent.app-customview-poolingcontainer-1.0.0-17 C:\Users\GOPAL\.gradle\caches\8.11\transforms\75539980cd49bab932c069bde0d7bfe6\transformed\customview-poolingcontainer-1.0.0\res
+com.soc.agent.app-room-runtime-2.6.1-18 C:\Users\GOPAL\.gradle\caches\8.11\transforms\76e30893cc58a2083d29196a18ef1ff3\transformed\room-runtime-2.6.1\res
+com.soc.agent.app-work-runtime-ktx-2.9.1-19 C:\Users\GOPAL\.gradle\caches\8.11\transforms\7f4107c396fcb6387a1e882339a992a3\transformed\work-runtime-ktx-2.9.1\res
+com.soc.agent.app-profileinstaller-1.3.1-20 C:\Users\GOPAL\.gradle\caches\8.11\transforms\810161d08e85b0bc36db036529045da7\transformed\profileinstaller-1.3.1\res
+com.soc.agent.app-lifecycle-runtime-ktx-release-21 C:\Users\GOPAL\.gradle\caches\8.11\transforms\820342becc558ef8bdecf6371e3ca0aa\transformed\lifecycle-runtime-ktx-release\res
+com.soc.agent.app-core-1.13.1-22 C:\Users\GOPAL\.gradle\caches\8.11\transforms\861ee3be40daa9289041d9e95cc22341\transformed\core-1.13.1\res
+com.soc.agent.app-work-runtime-2.9.1-23 C:\Users\GOPAL\.gradle\caches\8.11\transforms\8aa9c87f2ff7cb297c98cde5f62dad91\transformed\work-runtime-2.9.1\res
+com.soc.agent.app-lifecycle-livedata-2.8.4-24 C:\Users\GOPAL\.gradle\caches\8.11\transforms\8d6d8573f7b900e1a31e19729dc67506\transformed\lifecycle-livedata-2.8.4\res
+com.soc.agent.app-viewpager2-1.1.0-25 C:\Users\GOPAL\.gradle\caches\8.11\transforms\902c9498a51b475c626b360d92c7d5db\transformed\viewpager2-1.1.0\res
+com.soc.agent.app-lifecycle-viewmodel-ktx-2.8.4-26 C:\Users\GOPAL\.gradle\caches\8.11\transforms\9903b986543388984c2045d7ef544f8a\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.soc.agent.app-constraintlayout-2.1.4-27 C:\Users\GOPAL\.gradle\caches\8.11\transforms\9f6b8a890b406c420ecc3374f0517489\transformed\constraintlayout-2.1.4\res
+com.soc.agent.app-swiperefreshlayout-1.1.0-28 C:\Users\GOPAL\.gradle\caches\8.11\transforms\a05411ed08f78913e02fec8cae0beba3\transformed\swiperefreshlayout-1.1.0\res
+com.soc.agent.app-coordinatorlayout-1.1.0-29 C:\Users\GOPAL\.gradle\caches\8.11\transforms\a0a897492e4b5cb70b01a48c7535395e\transformed\coordinatorlayout-1.1.0\res
+com.soc.agent.app-activity-1.8.1-30 C:\Users\GOPAL\.gradle\caches\8.11\transforms\ad4a43a2427faf9a66192f6b47ea771e\transformed\activity-1.8.1\res
+com.soc.agent.app-room-ktx-2.6.1-31 C:\Users\GOPAL\.gradle\caches\8.11\transforms\af5e41b612f90dd59cca7d042a053d3e\transformed\room-ktx-2.6.1\res
+com.soc.agent.app-fragment-1.8.2-32 C:\Users\GOPAL\.gradle\caches\8.11\transforms\b2409deef7719484d25d7fbe1bafb84a\transformed\fragment-1.8.2\res
+com.soc.agent.app-lifecycle-service-2.8.4-33 C:\Users\GOPAL\.gradle\caches\8.11\transforms\bfbc07e9d16f6f8143a54b39a3491f22\transformed\lifecycle-service-2.8.4\res
+com.soc.agent.app-sqlite-2.4.0-34 C:\Users\GOPAL\.gradle\caches\8.11\transforms\c12a774ff43d6e3057862579f55e0c7f\transformed\sqlite-2.4.0\res
+com.soc.agent.app-core-runtime-2.2.0-35 C:\Users\GOPAL\.gradle\caches\8.11\transforms\c447f5ee005e65677109a7db6c7c7a56\transformed\core-runtime-2.2.0\res
+com.soc.agent.app-fragment-ktx-1.8.2-36 C:\Users\GOPAL\.gradle\caches\8.11\transforms\c6395584da90ac86a4a72fbdc58eaf21\transformed\fragment-ktx-1.8.2\res
+com.soc.agent.app-lifecycle-viewmodel-release-37 C:\Users\GOPAL\.gradle\caches\8.11\transforms\cbebfad01701f07b2172b7ffe74fcfa6\transformed\lifecycle-viewmodel-release\res
+com.soc.agent.app-biometric-1.1.0-38 C:\Users\GOPAL\.gradle\caches\8.11\transforms\d9f6013a8ea5de0c56a1762d1c594207\transformed\biometric-1.1.0\res
+com.soc.agent.app-lifecycle-process-2.8.4-39 C:\Users\GOPAL\.gradle\caches\8.11\transforms\e4daabb0154054f73927cb100d7f49cc\transformed\lifecycle-process-2.8.4\res
+com.soc.agent.app-cardview-1.0.0-40 C:\Users\GOPAL\.gradle\caches\8.11\transforms\e4db1b8fe0ee34001911923c3f651a86\transformed\cardview-1.0.0\res
+com.soc.agent.app-activity-ktx-1.8.1-41 C:\Users\GOPAL\.gradle\caches\8.11\transforms\ebca0b195e34ca8b72f5549346579e92\transformed\activity-ktx-1.8.1\res
+com.soc.agent.app-security-crypto-1.1.0-alpha06-42 C:\Users\GOPAL\.gradle\caches\8.11\transforms\ef4197fcd0dc01c4a500538c768a3665\transformed\security-crypto-1.1.0-alpha06\res
+com.soc.agent.app-savedstate-1.2.1-43 C:\Users\GOPAL\.gradle\caches\8.11\transforms\f3f9cdd0a89ee70a6081937814e9dc0b\transformed\savedstate-1.2.1\res
+com.soc.agent.app-pngs-44 C:\Users\GOPAL\Music\system monitor\android\app\build\generated\res\pngs\debug
+com.soc.agent.app-resValues-45 C:\Users\GOPAL\Music\system monitor\android\app\build\generated\res\resValues\debug
+com.soc.agent.app-packageDebugResources-46 C:\Users\GOPAL\Music\system monitor\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.soc.agent.app-packageDebugResources-47 C:\Users\GOPAL\Music\system monitor\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.soc.agent.app-debug-48 C:\Users\GOPAL\Music\system monitor\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.soc.agent.app-debug-49 C:\Users\GOPAL\Music\system monitor\android\app\src\debug\res
+com.soc.agent.app-main-50 C:\Users\GOPAL\Music\system monitor\android\app\src\main\res
